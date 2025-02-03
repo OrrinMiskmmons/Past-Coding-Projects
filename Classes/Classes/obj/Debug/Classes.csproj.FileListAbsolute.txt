@@ -1,0 +1,14 @@
+C:\Users\orrin\Desktop\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\orrin\Desktop\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\orrin\Desktop\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\orrin\Desktop\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\orrin\Desktop\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\orrin\Desktop\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\orrin\Desktop\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Classes\Classes\bin\Debug\Classes.pdb
