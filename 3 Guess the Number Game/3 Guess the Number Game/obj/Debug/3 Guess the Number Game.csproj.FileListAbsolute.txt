@@ -1,0 +1,20 @@
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.csproj.AssemblyReference.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\_3_Guess_the_Number_Game.Form1.resources
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\_3_Guess_the_Number_Game.Properties.Resources.resources
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.csproj.GenerateResource.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.csproj.CoreCompileInputs.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\bin\Debug\3 Guess the Number Game.exe.config
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\bin\Debug\3 Guess the Number Game.exe
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\bin\Debug\3 Guess the Number Game.pdb
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.exe
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.csproj.AssemblyReference.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\_3_Guess_the_Number_Game.Form1.resources
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\_3_Guess_the_Number_Game.Properties.Resources.resources
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.csproj.GenerateResource.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.csproj.CoreCompileInputs.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\obj\Debug\3 Guess the Number Game.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\bin\Debug\3 Guess the Number Game.exe.config
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\bin\Debug\3 Guess the Number Game.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\3 Guess the Number Game\3 Guess the Number Game\bin\Debug\3 Guess the Number Game.pdb

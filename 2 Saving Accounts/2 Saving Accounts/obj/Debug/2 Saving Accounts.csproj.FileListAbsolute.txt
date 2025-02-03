@@ -1,0 +1,20 @@
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\bin\Debug\2 Saving Accounts.exe.config
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\bin\Debug\2 Saving Accounts.exe
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\bin\Debug\2 Saving Accounts.pdb
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.csproj.AssemblyReference.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\_2_Saving_Accounts.Form1.resources
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\_2_Saving_Accounts.Properties.Resources.resources
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.csproj.GenerateResource.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.csproj.CoreCompileInputs.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.exe
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\bin\Debug\2 Saving Accounts.exe.config
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\bin\Debug\2 Saving Accounts.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\bin\Debug\2 Saving Accounts.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.csproj.AssemblyReference.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\_2_Saving_Accounts.Form1.resources
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\_2_Saving_Accounts.Properties.Resources.resources
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.csproj.GenerateResource.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.csproj.CoreCompileInputs.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\2 Saving Accounts\2 Saving Accounts\obj\Debug\2 Saving Accounts.pdb

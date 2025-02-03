@@ -1,0 +1,20 @@
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.csproj.AssemblyReference.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich_Maker.Form1.resources
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich_Maker.Properties.Resources.resources
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.csproj.GenerateResource.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.csproj.CoreCompileInputs.cache
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\bin\Debug\Sandwich Maker.exe.config
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\bin\Debug\Sandwich Maker.exe
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\bin\Debug\Sandwich Maker.pdb
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.exe
+C:\Users\omiskimmons124\OneDrive - C2k\SSD - AS Examples\Learning C#\Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\bin\Debug\Sandwich Maker.exe.config
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\bin\Debug\Sandwich Maker.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\bin\Debug\Sandwich Maker.pdb
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.csproj.AssemblyReference.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich_Maker.Form1.resources
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich_Maker.Properties.Resources.resources
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.csproj.GenerateResource.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.csproj.CoreCompileInputs.cache
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.exe
+C:\Users\orrin\Desktop\AS Level\SSD\SSD - AS Examples\Learning C#\4 Sandwich Maker\Sandwich Maker\obj\Debug\Sandwich Maker.pdb
